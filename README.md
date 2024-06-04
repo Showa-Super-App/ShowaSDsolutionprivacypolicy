@@ -1,6 +1,4 @@
-# ShowaSDsolutionprivacypolicy
-
-# Privacy Policy
+# Showa SD solution Privacy Policy 
 
 This privacy policy applies to the Showa SD Solution ("Application") for mobile devices created by Showa Co., Ltd. ("Service Provider") as a Freemium service. This service is intended for use "AS IS".
 
