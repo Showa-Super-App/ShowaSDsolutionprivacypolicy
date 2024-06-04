@@ -11,6 +11,7 @@ The Application collects information when you download and use it. This informat
 - Your device's Internet Protocol address (e.g., IP address)
 - The pages of the Application that you visit, the time and date of your visit, and the time spent on those pages
 - The operating system you use on your mobile device
+- Showa SD Solution collects and uploads your Contact List information to [https://api.showaapp.com ] to enable “Chat”, such as syncing contacts across devices and providing personalized experiences. This data is collected when you use the “Chat” in the app.
 
 The Application does not gather precise information about the location of your mobile device.
 
